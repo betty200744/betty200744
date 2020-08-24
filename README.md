@@ -5,7 +5,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on  golang & nodejs 
+- :orange_book: Focusing on  Go & Node.js 
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
